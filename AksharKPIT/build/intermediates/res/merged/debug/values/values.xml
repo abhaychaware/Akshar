@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Work/Others/Hemalkasa/StudioProjects/AksharKPIT/AksharKPIT/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="gesture_color">#0089cf</color>
+    <!-- From: file:/D:/Work/Others/Hemalkasa/StudioProjects/AksharKPIT/AksharKPIT/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="gesture_thumbnail_inset">8dip</dimen>
+    <dimen name="gesture_thumbnail_size">64dip</dimen>
+    <!-- From: file:/D:/Work/Others/Hemalkasa/StudioProjects/AksharKPIT/AksharKPIT/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">अक्षर</string>
+    <string name="application_name">Gestures Builder</string>
+    <string name="button_add">Add gesture</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_done">Done</string>
+    <string name="button_reload">Reload</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="error_missing_name">You must enter a name</string>
+    <string name="gestures_activity">Gestures</string>
+    <string name="gestures_delete">Delete</string>
+    <string name="gestures_delete_success">Gesture deleted</string>
+    <string name="gestures_empty">No gestures</string>
+    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
+    <string name="gestures_loading">Loading gestures...</string>
+    <string name="gestures_rename">Rename</string>
+    <string name="gestures_rename_label">Gesture name</string>
+    <string name="gestures_rename_title">Rename gesture</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_create_gesture">Create a gesture</string>
+    <string name="menu_settings">Settings</string>
+    <string name="prompt_gesture_name">Name</string>
+    <string name="rename_action">OK</string>
+    <string name="save_success">Gesture saved in %s</string>
+    <!-- From: file:/D:/Work/Others/Hemalkasa/StudioProjects/AksharKPIT/AksharKPIT/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

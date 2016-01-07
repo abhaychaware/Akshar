@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AksharKPIT.iml" filepath="$PROJECT_DIR$/AksharKPIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AksharKPIT/AksharKPIT-AksharKPIT.iml" filepath="$PROJECT_DIR$/AksharKPIT/AksharKPIT-AksharKPIT.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\work\Others\Hemalkasa\StudioProjects\AksharKPIT\AksharKPIT\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="D:\work\Others\Hemalkasa\StudioProjects\AksharKPIT\AksharKPIT\build\intermediates\pre-dexed\debug\android-support-v4-6cd07bc6278fd5d756b83ec5de85005bdf90a220.jar" />
+    </item>
+
+</items>
