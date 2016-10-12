@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">अक्षर</string>
-</resources>
+    <string name="app_disclaimer_1">Conceptualized by</string>
+    <string name="app_disclaimer_2">लोक बिरादरी प्रकल्प, हेमलकसा</string>
+    <string name="app_disclaimer_3">Application Supported by</string>
+    <string name="app_disclaimer_4">KPIT Technologies Ltd.</string>
+    <string name="credit_text">CREDITS</string>
+<!--<string name="credit_text_1">Pronunciation Audibles</string>
+    <string name="credit_text_2">Courtesy : sanskritdocuments.org</string>
+    <string name="credit_text_3">Drawable Alphabet Images</string>
+    <string name="credit_text_4">Courtesy : kelkkhial.ir</string>
+    -->
+
+    <string name="credit_text_1">Concept, Madia Alphabet and Pictures</string>
+    <string name="credit_text_2">Lok Biradari Prakalpa</string>
+
+    <string name="credit_text_3">Application Support</string>
+    <string name="credit_text_4">KPIT Technologies Ltd.</string>
+
+    <string name="credit_text_5">Development Contributions</string>
+    <string name="credit_text_6">Abhay Chaware</string>
+    <string name="credit_text_7">Dnyaneshwar Kanpurne</string>
+
+    </resources>
